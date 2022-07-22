@@ -4,4 +4,4 @@ main: dev.jannek.customdeath.CustomDeath
 api-version: 1.19
 authors: [ 'Jannek' ]
 description: 'Custom death and revival system.'
-website: 'http://jannek.dev'
+website: 'https://jannek.dev'
